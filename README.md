@@ -31,10 +31,10 @@ A modern tool for managing Rummy games with innovative features and an intuitive
 
 ---
 
-### 📁 Portfolio for Vocational Training
+### 📁 [Portfolio](https://selina.mogicato.ch)
 A personal portfolio showcasing my journey as an apprentice application developer. It highlights my projects, skills, and experiences in an elegant and user-friendly design. Built from scratch without any framework.
 
-**Tech Stack:** HTML, CSS, JavaScript  
+**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
