@@ -45,13 +45,6 @@ An interactive arcade section within my portfolio featuring web-based games and 
 
 ---
 
-## 📊 GitHub Stats
-
-![Selina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=selinamogicato&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selinamogicato&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://selina.mogicato.ch)
