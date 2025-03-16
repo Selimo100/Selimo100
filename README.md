@@ -48,6 +48,6 @@ An interactive arcade section within my portfolio featuring web-based games and 
 ## 📫 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://selina.mogicato.ch)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](selina.tania.mogicato@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](selimo.contact@gmail.com)
 
 ---
