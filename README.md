@@ -61,6 +61,7 @@ An interactive arcade section within my portfolio featuring web-based games and 
 - 🧠 Future vision: AI-based fridge scanner for personalized suggestions
 
 **Tech Stack:** React Native, Expo, Firebase (Authentication, Firestore)
+
 ---
 
 ## 📫 Connect with Me
