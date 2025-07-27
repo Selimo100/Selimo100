@@ -48,6 +48,21 @@ An interactive arcade section within my portfolio featuring web-based games and 
 
 ---
 
+### 🥑 Yumigo
+
+**Yumigo** is a mobile app that turns spontaneous food cravings into delicious recipe suggestions. Users can enter what they're craving, browse curated recipes, and filter them based on seasonality and location. The goal is to promote mindful, inspiring, and seasonal eating in a fun and intuitive way.
+
+> _"Tell us what you're craving – and Yumigo shows you what to cook."_
+
+**Highlights:**
+- 🔎 Craving input with visual category exploration
+- 📍 Seasonal recipes based on location
+- ❤️ Recipe and favorites management
+- 🧠 Future vision: AI-based fridge scanner for personalized suggestions
+
+**Tech Stack:** React Native, Expo, Firebase (Authentication, Firestore)
+---
+
 ## 📫 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://selina.mogicato.ch)
