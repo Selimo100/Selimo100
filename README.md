@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Selina Mogicato
+# 👋 Hi, I'm Selina
 
 **`Apprentice Application Developer | Passionate about Web Development & Software Engineering`**
 
