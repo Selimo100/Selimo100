@@ -42,14 +42,15 @@ I enjoy working across the full stack and care deeply about:
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,php,python,md" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,php,python,markdown" />
 </p>
 
 ---
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactrouter,vue,nextjs,vite,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,tailwind,bootstrap" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
 </p>
 
 ---
@@ -71,7 +72,7 @@ I enjoy working across the full stack and care deeply about:
 
 ### 🗄️ Databases & Backend Services
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
 </p>
 
@@ -129,7 +130,7 @@ Originally built as my final secondary school project for family use.
 ---
 
 ### 📁 [Portfolio](https://selina.mogicato.ch)
-My personal portfolio showcasing projects, skills, and my journey as an apprentice application developer.  
+A personal portfolio showcasing my journey as an apprentice application developer.  
 Built completely from scratch without any framework.
 
 **Tech:** HTML · CSS · JavaScript  
@@ -137,51 +138,39 @@ Built completely from scratch without any framework.
 ---
 
 ### 🎮 [Selina’s Arcade](https://selina.mogicato.ch/assets/arcade/arcade)
-An interactive arcade area inside my portfolio featuring web-based games and experiments.  
-A creative playground where ideas turn into working prototypes.
+An interactive arcade area featuring web-based games and experiments.
 
 **Tech:** HTML · CSS · JavaScript  
 
 ---
 
 ### 🥑 [Yumigo](https://yumigoapp.netlify.app/)
-A mobile app that turns spontaneous food cravings into **seasonal and location-based recipe suggestions**.
+A mobile app that turns spontaneous food cravings into seasonal recipe suggestions.
 
-> _“Tell us what you’re craving – and Yumigo shows you what to cook.”_
-
-**Highlights**
-- 🔎 Craving-based recipe discovery  
-- 📍 Seasonal recipes based on location  
-- ❤️ Favorites & recipe management  
-- 🧠 Future vision: AI-powered fridge scanner  
-
-**Tech:** React Native · Expo · Firebase (Auth, Firestore)
+**Tech:** React Native · Expo · Firebase  
 
 ---
 
 ## 🌐 Socials
 
 <p>
-  <a href="https://www.instagram.com/selimo_100?igsh=ejV6aWtkNXQydzBi&utm_source=qr">
+  <a href="https://www.instagram.com/selimo_100">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://snapchat.com/t/8dVXZPVM">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
   </a>
-  <a href="https://www.facebook.com/share/1Bxjj5PVbD/?mibextid=wwXIfr">
+  <a href="https://www.facebook.com/share/1Bxjj5PVbD/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/selina-mogicato-4b7a7637a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <a href="https://www.linkedin.com/in/selina-mogicato-4b7a7637a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/selimo_100?s=21">
+  <a href="https://x.com/selimo_100">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@selimo100">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto:selimo.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
