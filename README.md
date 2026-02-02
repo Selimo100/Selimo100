@@ -103,27 +103,29 @@ A mobile app that turns spontaneous food cravings into **seasonal and location-b
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Selina100&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Selina100&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect with Me
+## 🌐 Socials
 
 <p>
-  <a href="https://selina.mogicato.ch">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://www.instagram.com/selimo_100?igsh=ejV6aWtkNXQydzBi&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://snapchat.com/t/8dVXZPVM">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
+  </a>
+  <a href="https://www.facebook.com/share/1Bxjj5PVbD/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/selina-mogicato-4b7a7637a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/selimo_100?s=21">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@selimo100">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="mailto:selimo.contact@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/selina-mogicato-4b7a7637a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
