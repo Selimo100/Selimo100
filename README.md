@@ -38,26 +38,82 @@ I enjoy working across the full stack and care deeply about:
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Frontend
+### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind,expo" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,php,python,md" />
 </p>
 
-### Backend
+---
+
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,php,python,flask" />
+  <img src="https://skillicons.dev/icons?i=react,reactrouter,vue,nextjs,vite,tailwind,bootstrap" />
 </p>
 
-### Databases
+---
+
+### 📱 Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
 </p>
 
-### Tools & DevOps
+---
+
+### ⚙️ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,nginx,figma" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,npm" />
+</p>
+
+---
+
+### 🗄️ Databases & Backend Services
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase,supabase" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ Hosting & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,nginx,docker" />
+</p>
+
+---
+
+### 🔁 CI/CD & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-FCA121?style=flat&logo=gitlab&logoColor=black"/>
+</p>
+
+---
+
+### 🧪 Testing & Code Quality
+<p>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black"/>
+</p>
+
+---
+
+### 📊 Monitoring & Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,gradle" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
+</p>
+
+---
+
+### 🎨 Design & Presentation
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+  <img src="https://img.shields.io/badge/Prezi-000000?style=flat&logo=prezi&logoColor=white"/>
 </p>
 
 ---
@@ -80,7 +136,7 @@ Built completely from scratch without any framework.
 
 ---
 
-### 🎮 Selina’s Arcade
+### 🎮 [Selina’s Arcade](https://selina.mogicato.ch/assets/arcade/arcade)
 An interactive arcade area inside my portfolio featuring web-based games and experiments.  
 A creative playground where ideas turn into working prototypes.
 
@@ -88,7 +144,7 @@ A creative playground where ideas turn into working prototypes.
 
 ---
 
-### 🥑 Yumigo
+### 🥑 [Yumigo](https://yumigoapp.netlify.app/)
 A mobile app that turns spontaneous food cravings into **seasonal and location-based recipe suggestions**.
 
 > _“Tell us what you’re craving – and Yumigo shows you what to cook.”_
