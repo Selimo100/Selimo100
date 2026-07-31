@@ -59,6 +59,7 @@ I enjoy working across the full stack and care deeply about:
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=swift" />
 </p>
 
 ---
