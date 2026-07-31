@@ -154,23 +154,8 @@ A mobile app that turns spontaneous food cravings into seasonal recipe suggestio
 ## 🌐 Socials
 
 <p>
-  <a href="https://www.instagram.com/selimo_100">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://snapchat.com/t/8dVXZPVM">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
-  </a>
-  <a href="https://www.facebook.com/share/1Bxjj5PVbD/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/selina-mogicato-4b7a7637a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/selimo_100">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@selimo100">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
